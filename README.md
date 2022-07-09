@@ -1,4 +1,4 @@
-### Telegram Söz Tapma Botu. Fork edim deploy eləsən nəslin qucağımda hesab ele 
+### Telegram Söz Tapma Botu. Fork edib deploy eləsən nəslin qucağımda hesab ele 
 📝
 ## Deploy to Heroku
 
