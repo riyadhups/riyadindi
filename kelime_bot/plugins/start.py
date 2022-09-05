@@ -14,14 +14,14 @@ keyboard = InlineKeyboardMarkup([
         InlineKeyboardButton("➕ Grubuna Ekle", url=f"http://t.me/SozTapBot?startgroup=new")
     ],
     [
-        InlineKeyboardButton("🇦🇿🐊 Sahibim", url="https://t.me/Thagiyevvvv"),
+        InlineKeyboardButton("🇦🇿🐊 Sahibim", url="https://t.me/Thagiyevv"),
         InlineKeyboardButton("🌐 Söhbət Qrupu", url="https://t.me/KarabakhTeamm"),
     ]
 ])
 
 
 START = """
-**🐊✨ Salam, Qarışıq sözləri tapma oyununa xoş gəldin..**
+**✨💕 Salam, Qarışıq sözləri tapma oyununa xoş gəldin..**
 
 ➤ Məlumat üçün 👉 /help Vurum. Ayarlar asand və sadədir. 
 """
